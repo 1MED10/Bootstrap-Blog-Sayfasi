@@ -1,0 +1,36 @@
+.navbar{
+	border-bottom: 1px solid white;
+	position: relative;
+	opacity: 0.8;
+}
+body{
+	
+}
+
+.jumbotron{
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+a{
+	text-decoration: none;
+}
+
+.web{
+    text-align: center;
+    
+	border-top: 1px solid black;
+}
+
+.medlogo{  
+	margin-left: 25px;
+	 width: 100px;
+	 float: left;
+ }
+
+ .logo-yazi{
+    display: inline-block;
+    width: 550px;
+    margin-top: 10px;
+    padding-right: 25px;
+}
